@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564670251738",
+    "project_id": "saurabhchatapp-ebc31",
+    "storage_bucket": "saurabhchatapp-ebc31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564670251738:android:ab99438f6f81d817469be3",
+        "android_client_info": {
+          "package_name": "com.example.saurabhchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564670251738-o96uja9igtv8s0jr5st282drhqv813a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL0T8ivHVVo3Km7DXfiDLT5tU9oXSV_4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564670251738-o96uja9igtv8s0jr5st282drhqv813a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
