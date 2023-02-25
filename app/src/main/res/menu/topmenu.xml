@@ -6,9 +6,9 @@
         android:id="@+id/search"
         android:icon="@drawable/ic_baseline_search_24"
         android:title="Srearch"
+        app:actionViewClass="android.widget.SearchView"
         app:showAsAction="always" />
-    <item android:id="@+id/edtProfile"
-        android:title="EditProfile"/>
+
     <item
         android:id="@+id/group"
         android:title="Group" />
@@ -18,4 +18,6 @@
     <item
         android:id="@+id/setting"
         android:title="Setting" />
+    <item android:id="@+id/edtProfile"
+        android:title="EditProfile"/>
 </menu>

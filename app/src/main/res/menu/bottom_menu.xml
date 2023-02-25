@@ -5,6 +5,7 @@
     <item android:title="Chat"
         android:icon="@drawable/ic_baseline_chat_24"/>
     <item android:title="Status"
+        android:id="@+id/status"
         android:icon="@drawable/ic_baseline_add_circle_24"/>
     <item android:title="Call"
         android:icon="@drawable/ic_baseline_call_24"/>
